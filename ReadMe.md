@@ -4,15 +4,18 @@ This is a javascript version of the Implicit QR SVD code by Theodore Gast,
 Chuyuan Fu, Chenfanfu Jiang, Joseph Teran
 
 If the code is used in an article, the following paper shall be cited:
+
+```
 @techreport{qrsvd:2016,
   title={Implicit-shifted Symmetric QR Singular Value Decomposition of 3x3 Matrices},
   author={Gast, Theodore and Fu, Chuyuan and Jiang, Chenfanfu and Teran, Joseph},
   year={2016},
   institution={University of California Los Angeles}
 }
+```
 
 See the original code for licensing information:
-https://www.seas.upenn.edu/~cffjiang/
+[https://www.seas.upenn.edu/~cffjiang/research/svd/qrsvd_release_1.1.zip](https://www.seas.upenn.edu/~cffjiang/research/svd/qrsvd_release_1.1.zip)
 
 ### About this version
 This version of the code was generated using Emscripten and the version 3.3.7 of Eigen.
